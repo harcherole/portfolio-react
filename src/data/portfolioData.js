@@ -1,3 +1,10 @@
+import project1 from '../media/project1.JPG';
+import project2 from '../media/project2.JPG';
+import project3 from '../media/project3.JPG';
+import project4 from '../media/project4.JPG';
+import project5 from '../media/project5.JPG';
+import project6 from '../media/project6.JPG';
+
 export const portfolioData = [
   {
     id: 1,
@@ -6,7 +13,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-python','fab fa-css3-alt','fab fa-database','fab fa-r-project'],
     source: 'https://github.com/harcherole?tab=repositories',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project1.JPG'
+    picture: project1
   },
   {
     id: 2,
@@ -15,7 +22,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-react','fab fa-microsoft','fab fa-amazon', 'fab fa-docker'],
     source: 'https://github.com/harcherole?tab=repositories',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project2.JPG'
+    picture: project2
   },
   {
     id: 3,
@@ -24,7 +31,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-php','fab fa-css3-alt', 'fab fa-github'],
     source: 'https://github.com/harcherole?tab=repositories',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project3.JPG'
+    picture: project3
   },
   {
     id: 4,
@@ -33,7 +40,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-php','fab fa-react'],
     source: 'https://github.com/harcherole?tab=repositories',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project4.JPG'
+    picture: project4
   },
   {
     id: 5,
@@ -42,7 +49,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
     source: 'https://github.com/harcherole?tab=repositories',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project5.JPG'
+    picture: project5
   },
   {
     id: 6,
@@ -51,6 +58,6 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
     source: 'https://github.com/harcherole?tab=repositories',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project6.JPG'
+    picture: project6
   },
 ]

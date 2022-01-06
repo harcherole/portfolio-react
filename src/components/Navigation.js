@@ -1,12 +1,13 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import Georf from '../media/Georf.PNG';
 
 const Navigation = () => {
     return (
         <div className="sidebar">
             <div className="id">
                 <div className="idContent">
-                    <img src="./media/Georf.PNG" alt="profil-pic"/>
+                    <img src={Georf} alt="profil-pic"/>
                     <h3>MIGUIAMA BAMBA Georf</h3>
                 </div>
             </div>

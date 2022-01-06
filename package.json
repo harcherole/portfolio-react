@@ -1,6 +1,6 @@
 {
-  "homepage": "https://harcherole.github.io/portfolio-react",
   "name": "react-cv",
+  "homepage": "https://harcherole.github.io/portfolio-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

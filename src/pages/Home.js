@@ -1,5 +1,6 @@
 import React from 'react';
 import Navigation from '../components/Navigation';
+import CV from '../media/CV.pdf';
 
 const Home = () => {
     return (
@@ -10,7 +11,7 @@ const Home = () => {
                     <h1>MIGUIAMA BAMBA Georf</h1>
                     <h2>Data Scientist</h2>
                     <div className="pdf">
-                        <a href="./media/CV.pdf" target="_blank">Télécharger mon CV</a>
+                        <a href={CV} target="_blank">Télécharger mon CV</a>
                     </div>
                 </div>
             </div>
