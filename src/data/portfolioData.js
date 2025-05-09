@@ -6,6 +6,11 @@ import project5 from '../media/project5.JPG';
 import project6 from '../media/project6.JPG';
 import project7 from '../media/project7.JPG';
 import project8 from '../media/project8.JPG';
+import project9 from '../media/project9.gif';
+import project10 from '../media/project10.gif';
+import project11 from '../media/project11.gif';
+import project12 from '../media/project12.gif';
+import project13 from '../media/project13.gif';
 
 export const portfolioData = [
   {
@@ -20,10 +25,10 @@ export const portfolioData = [
   {
     id: 2,
     name: 'Système de reco',
-    languages: ['python'],
+    languages: ['python', 'Data Science'],
     languagesIcons: ['fab fa-python','fab fa-microsoft','fab fa-amazon', 'fab fa-docker'],
     source: 'https://github.com/harcherole?tab=repositories',
-    info: 'Construiction d\'un système de recommandation qui recommande des films en fonction des films vu précédemment',
+    info: 'Construiction d\'un système de recommandation afin de pour suggérer des films aux utilisateurs en fonction de leurs préférences et comportements passés. Ce système utilise principalement des techniques de filtrage collaboratif, qui peuvent être basées sur les utilisateurs ou sur les éléments.',
     picture: project2
   },
   {
@@ -37,11 +42,11 @@ export const portfolioData = [
   },
   {
     id: 4,
-    name: 'laboriosam.fr',
+    name: 'Site internte logistique',
     languages: ['javascript','php','react'],
     languagesIcons: ['fab fa-js','fab fa-php','fab fa-react'],
     source: 'https://github.com/harcherole?tab=repositories',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
+    info: 'Création d\'un site internet pour la gestion des chargement des camions',
     picture: project4
   },
   {
@@ -55,11 +60,11 @@ export const portfolioData = [
   },
   {
     id: 6,
-    name: 'test.io',
+    name: 'Mon site internet',
     languages: ['javascript','react', 'css'],
     languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
     source: 'https://github.com/harcherole?tab=repositories',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
+    info: 'Création de mon site internet frond scratch en react javascript et css.',
     picture: project6
   },
   {
@@ -74,10 +79,55 @@ export const portfolioData = [
   {
     id: 8,
     name: 'Gradient Descente',
-    languages: ['python'],
-    languagesIcons: ['fab fa-r-project','fas fa-file-csv'],
+    languages: ['python', 'Data Science'],
+    languagesIcons: ['fab fa-python','fas fa-file-csv'],
     source: 'https://github.com/harcherole?tab=repositories',
     info: 'Il s\'agit de simuler la descente de gradient en utilisant un module 3D Python',
     picture: project8
+  },
+  {
+    id: 9,
+    name: 'ACP (PCA en anglais)',
+    languages: ['python', 'Data Science'],
+    languagesIcons: ['fab fa-python','fas fa-file-csv'],
+    source: 'https://github.com/harcherole?tab=repositories',
+    info: 'Il s\'agit de simuler une analyse en composante principale sur plusieurs variables',
+    picture: project9
+  },
+  {
+    id: 10,
+    name: 'Loi de Probabilité',
+    languages: ['python', 'Data Science'],
+    languagesIcons: ['fab fa-python'],
+    source: 'https://github.com/harcherole?tab=repositories',
+    info: 'Créalisation d\'une animation GIF sur les 17 Lois de Probabilités qu\'un Data Science doit connaître',
+    picture: project10
+  },
+  {
+    id: 11,
+    name: 'Python dans Excel!',
+    languages: ['python'],
+    languagesIcons: ['fab fa-python', 'fas fa-file-excel'],
+    source: 'https://github.com/harcherole?tab=repositories',
+    info: 'Créalisation d\'une animation python dans Excel',
+    picture: project11
+  },
+  {
+    id: 12,
+    name: 'Biais vs Variance',
+    languages: ['python', 'Data Science'],
+    languagesIcons: ['fab fa-python'],
+    source: 'https://github.com/harcherole?tab=repositories',
+    info: 'Créalisation d\'une animation GIF qui montre l\'évolution du biais vs variance',
+    picture: project12
+  },
+  {
+    id: 13,
+    name: 'KNN',
+    languages: ['Data Science'],
+    languagesIcons: ['fab fa-python', 'fas fa-file-excel'],
+    source: 'https://github.com/harcherole?tab=repositories',
+    info: 'Créalisation d\'une animation en utilisant Sckitlearn KNN',
+    picture: project13
   },
 ]

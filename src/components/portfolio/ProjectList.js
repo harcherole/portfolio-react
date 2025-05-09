@@ -10,7 +10,7 @@ state = {
         {id: 1, value: "python"},
         {id: 2, value: "r"},
         {id: 3, value: "react"},
-        {id: 4, value: "javascript"}
+        {id: 4, value: "Data Science"}
     ],
     selectedRadio: 'python'
 };

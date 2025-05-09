@@ -13,7 +13,7 @@ const Contact = () => {
                     <ul>
                         <li>
                             <i className="fas fa-map-marker-alt"></i>
-                            <span>Thiais</span>
+                            <span>Champs-sur-Marne</span>
                         </li>
                         <li>
                             <i className="fas fa-mobile-alt"></i>
@@ -30,7 +30,7 @@ const Contact = () => {
                                 <span
                                 className="clickInput"
                                 onClick={() => { alert("E-mail copié!");}
-                                }>georfprince@gmail.com</span>
+                                }>harcherole@gmail.com</span>
                             </CopyToClipboard>
                         </li>
                     </ul>
@@ -52,10 +52,10 @@ const Contact = () => {
                             <h4>Codepen</h4>
                             <i className="fab fa-codepen"></i>
                         </a>
-                        <a href="https://twitter.com/" target="_blank"
+                        <a href="https://www.youtube.com/@DIAM-IA" target="_blank"
                         rel="noopener noreferrer">
-                            <h4>Twitter</h4>
-                            <i className="fab fa-twitter"></i>
+                            <h4>YouTube</h4>
+                            <i className="fab fa-youtube"></i>
                         </a>
                     </ul>
                 </di>

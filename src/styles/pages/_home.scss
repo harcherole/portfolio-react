@@ -5,6 +5,8 @@
     min-height: $minHeight;
     width: 100%;
     min-height: 500px;
+    justify-content: center;
+    align-items: center;
     border-radius: $borderRadius;
     position: relative;
     overflow: hidden;
@@ -24,6 +26,7 @@
       top: 20%;
       left: 13%;
       font-family: $font-1;
+      text-align: center;
 
       h1 {
         font-size: 5rem;
@@ -46,6 +49,7 @@
           border-radius: $borderRadius;
           box-shadow: 0 5px 1px rgb(15, 15, 15);
           transition: 0.2s ease;
+          margin-right: 1rem; // Add this line to create space between the buttons
 
           &:hover {
             background: $color-4;

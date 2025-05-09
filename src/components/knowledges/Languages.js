@@ -6,12 +6,11 @@ class Languages extends Component {
         languages : [
             {id: 1, value: "Python", xp: 2.7},
             {id: 2, value: "R", xp: 2.7},
-            {id: 3, value: "SQL & NoSQL", xp: 1.5},
-            {id: 4, value: "JavaScript", xp: 2}
+            {id: 3, value: "SQL & NoSQL", xp: 2.7}
         ],
         frameworks : [
             {id: 1, value: "Scikit-learn", xp: 2.7},
-            {id: 2, value: "Tensorflow & Keras", xp: 2},
+            {id: 2, value: "Tensorflow & Keras", xp: 2.8},
             {id: 3, value: "Pandas & Numpy", xp: 2.7},
             {id: 4, value: "NLTK & NLP", xp: 2.5},
             {id: 5, value: "Matplotlib & Seaborn", xp: 2.5}

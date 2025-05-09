@@ -17,11 +17,11 @@ const OtherSkills = () => {
                 </ul>
                 <ul>
                     <li><i className="fas fa-check-square"></i>
-                    Figma</li>
+                    Créateur de contenu</li>
                     <li><i className="fas fa-check-square"></i>
-                    UI/UX Design</li>
+                    DevOps</li>
                     <li><i className="fas fa-check-square"></i>
-                    Photoshop</li>
+                    Tuteur Pédagogique</li>
                     <li><i className="fas fa-check-square"></i>
                     Montage Vidéo</li>
                 </ul>

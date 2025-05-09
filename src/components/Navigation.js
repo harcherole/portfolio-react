@@ -59,8 +59,8 @@ const Navigation = () => {
                         </a>
                     </li>
                     <li>
-                        <a href="https://twitter.com" target="_blank" 
-                        rel="noopener noreferrer" ><i className="fab fa-twitter"></i>
+                        <a href="https://www.youtube.com/@DIAM-IA" target="_blank" 
+                        rel="noopener noreferrer" ><i className="fab fa-youtube"></i>
                         </a>
                     </li>
                 </ul>
