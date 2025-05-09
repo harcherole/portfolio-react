@@ -1,9 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.cbef8871.css",
-    "main.js": "/portfolio-react/static/js/main.28c6df62.js",
+    "main.css": "/portfolio-react/static/css/main.6d0ca52b.css",
+    "main.js": "/portfolio-react/static/js/main.dcabb855.js",
     "static/js/787.257c2988.chunk.js": "/portfolio-react/static/js/787.257c2988.chunk.js",
+    "static/media/project13.gif": "/portfolio-react/static/media/project13.e18645ca87c836a077d6.gif",
+    "static/media/fiche_de_presse_Georf_MIGUIAMA_BAMBA.pdf": "/portfolio-react/static/media/fiche_de_presse_Georf_MIGUIAMA_BAMBA.2dfb86ec538a39f8b0d1.pdf",
+    "static/media/project9.gif": "/portfolio-react/static/media/project9.bf003dd7d31a41de3535.gif",
     "static/media/IA.PNG": "/portfolio-react/static/media/IA.e77d1ecf33d96f3f18b9.PNG",
+    "static/media/CV.pdf": "/portfolio-react/static/media/CV.1830fb1c683dd17f752c.pdf",
+    "static/media/project10.gif": "/portfolio-react/static/media/project10.64457b812a342d85c347.gif",
+    "static/media/project11.gif": "/portfolio-react/static/media/project11.9f5b7601e9de17e280fc.gif",
+    "static/media/project12.gif": "/portfolio-react/static/media/project12.72abda4e0fd8d089f15b.gif",
     "static/media/project1.JPG": "/portfolio-react/static/media/project1.24a12c16038eff19584e.JPG",
     "static/media/project6.JPG": "/portfolio-react/static/media/project6.1ad97c374105973df458.JPG",
     "static/media/project7.JPG": "/portfolio-react/static/media/project7.6820d15620687bcebc88.JPG",
@@ -13,16 +20,15 @@
     "static/media/project3.JPG": "/portfolio-react/static/media/project3.d968b0623da0fba07716.JPG",
     "static/media/project8.JPG": "/portfolio-react/static/media/project8.cc0bc818608d88bdc6fa.JPG",
     "static/media/project2.JPG": "/portfolio-react/static/media/project2.00ac148d3f1781a17d3a.JPG",
-    "static/media/Georf.PNG": "/portfolio-react/static/media/Georf.f10f90ee7f07f1754d32.PNG",
-    "static/media/CV.pdf": "/portfolio-react/static/media/CV.376082cf0f268d999e3e.pdf",
+    "static/media/Georf.PNG": "/portfolio-react/static/media/Georf.d7ee8ba1ebc9d56d26e0.PNG",
     "index.html": "/portfolio-react/index.html",
-    "static/media/shape.svg": "/portfolio-react/static/media/shape.1d026b20b3a18a74a971.svg",
-    "main.cbef8871.css.map": "/portfolio-react/static/css/main.cbef8871.css.map",
-    "main.28c6df62.js.map": "/portfolio-react/static/js/main.28c6df62.js.map",
+    "static/media/shape.svg": "/portfolio-react/static/media/shape.304b3ad310f9f544faf4.svg",
+    "main.6d0ca52b.css.map": "/portfolio-react/static/css/main.6d0ca52b.css.map",
+    "main.dcabb855.js.map": "/portfolio-react/static/js/main.dcabb855.js.map",
     "787.257c2988.chunk.js.map": "/portfolio-react/static/js/787.257c2988.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbef8871.css",
-    "static/js/main.28c6df62.js"
+    "static/css/main.6d0ca52b.css",
+    "static/js/main.dcabb855.js"
   ]
 }
