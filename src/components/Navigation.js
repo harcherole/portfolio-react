@@ -33,6 +33,12 @@ const Navigation = () => {
                         </NavLink>
                     </li>
                     <li>
+                        <NavLink exact to="/training" activeClassName="navActive">
+                            <i className="fas fa-graduation-cap"></i>
+                            <span>Formations</span>
+                        </NavLink>
+                    </li>
+                    <li>
                         <NavLink exact to="/contact" activeClassName="navActive">
                             <i className="fas fa-address-book"></i>
                             <span>Contact</span>
