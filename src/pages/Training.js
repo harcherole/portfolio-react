@@ -30,7 +30,7 @@ const Training = () => {
                         <a href="https://whatsapp.com/channel/0029Vb6RGQyHVvThWNafAK09" target="_blank"
                         rel="noopener noreferrer">
                             <h4>Formation en IA</h4>
-                            <i className="fab fa-youtube"></i>
+                            <i className="fas fa-bell"></i>
                         </a>
                     </ul>
                 </di>
