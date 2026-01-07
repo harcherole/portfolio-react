@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.6d0ca52b.css",
-    "main.js": "/portfolio-react/static/js/main.bb711e0e.js",
+    "main.js": "/portfolio-react/static/js/main.617bc3df.js",
     "static/js/787.257c2988.chunk.js": "/portfolio-react/static/js/787.257c2988.chunk.js",
     "static/media/project13.gif": "/portfolio-react/static/media/project13.e18645ca87c836a077d6.gif",
     "static/media/fiche_de_presse_Georf_MIGUIAMA_BAMBA.pdf": "/portfolio-react/static/media/fiche_de_presse_Georf_MIGUIAMA_BAMBA.2dfb86ec538a39f8b0d1.pdf",
@@ -24,11 +24,11 @@
     "index.html": "/portfolio-react/index.html",
     "static/media/shape.svg": "/portfolio-react/static/media/shape.304b3ad310f9f544faf4.svg",
     "main.6d0ca52b.css.map": "/portfolio-react/static/css/main.6d0ca52b.css.map",
-    "main.bb711e0e.js.map": "/portfolio-react/static/js/main.bb711e0e.js.map",
+    "main.617bc3df.js.map": "/portfolio-react/static/js/main.617bc3df.js.map",
     "787.257c2988.chunk.js.map": "/portfolio-react/static/js/787.257c2988.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d0ca52b.css",
-    "static/js/main.bb711e0e.js"
+    "static/js/main.617bc3df.js"
   ]
 }
